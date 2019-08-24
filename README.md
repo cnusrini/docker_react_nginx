@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Code commited to git
+## once committed,travis ci will pull the code and run the tests
+## after sucessfull run, this web app will be deployed to AWS 
+
 ## Available Scripts
 
 In the project directory, you can run:
